@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Resources_WE</string>
+    <string name="name">Enter The Name</string>
+    <string name="id">Enter The ID</string>
+    <string name="DOB">Enter The DOB</string>
+    <string name="blood_group">Enter The Blood Group</string>
+    <string name="phone_number">Enter The Phone Number</string>
+    <string name="stateName">Enter The State Name</string>
+    <string name="districtName">Enter The District Name</string>
+    <string name="address">Enter the Address</string>
+
+</resources>
